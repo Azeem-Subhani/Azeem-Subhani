@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Hi, I'm Azeem Subhani
+## Hi there 👋, I'm Azeem Subhani
 <p><em>Full Stack Software Engineer
 </em></p>
  
